@@ -14,7 +14,7 @@ The repository documents my progression from basic surface creation to productio
 
 | Helmet 06 – Production Surface Patchwork | Helmet 07 – Rear Spoiler Surface Development |
 |------------------------------------------|-----------------------------------------------|
-| ![](Helmet%2006%20-%20Production%20Surface%20Patchwork/01_outside_surface.png) | ![](Helmet%2007%20-%20Rear%20Spoiler%20Surface%20Development/01_spoiler_front.png) |
+| ![](Helmet%2006%20-%20Production%20Surface%20Patchwork/01_outside_surface.png) | ![](Helmet%2007%20-%20Rear%20Spoiler%20Surface%20Development/helmet_front.png) |
 
 ---
 
