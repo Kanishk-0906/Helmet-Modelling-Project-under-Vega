@@ -1,4 +1,4 @@
-/# Helmet 07 – Rear Spoiler Surface Development
+Helmet 07 – Rear Spoiler Surface Development
 
 ## Overview
 
