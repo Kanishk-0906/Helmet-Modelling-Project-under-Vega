@@ -48,6 +48,8 @@ The spoiler was developed as an independent surface model, fitted to the helmet 
 - Trim Sheet
 - Extend Sheet
 - Sew
+- Offset Surface
+- Extract Geometry
 
 ### Surface Validation
 - Examine Geometry
