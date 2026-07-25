@@ -7,6 +7,7 @@
 This project involved localized Class A surface patchwork on a production helmet model using Siemens NX. The objective was to reconstruct and refine selected surface regions while preserving the original design intent and achieving manufacturing-ready surface quality.
 
 The repaired surfaces were created using advanced surfacing techniques, sewn into the existing geometry, and validated using Siemens NX surface analysis tools to ensure smooth transitions and geometric continuity.
+
 ---
 
 ## Process
