@@ -10,11 +10,11 @@ The repository documents my progression from basic surface creation to productio
 
 | Helmet 04 | Helmet 05 |
 |-----------|-----------|
-| ![](Helmet%2004/images/trimetric.png) | ![](Helmet%2005/images/trimetric.png) |
+| ![](Helmet%2004/trimetric.png) | ![](Helmet%2005/trimetric.png) |
 
 | Helmet 06 | Helmet 07 |
 |-----------|-----------|
-| ![](Helmet%2006/images/outside_view.png) | ![](Helmet%2007/images/spoiler_assembly.png) |
+| ![](Helmet%2006/outside_view.png) | ![](Helmet%2007/spoiler_assembly.png) |
 
 ---
 
@@ -64,10 +64,10 @@ The repository documents my progression from basic surface creation to productio
 
 # About Vega Auto Accessories Ltd.
 
-**Vega Auto Accessories Ltd.** is one of India's leading helmet manufacturers, established in **1982** in **Belagavi (Belgaum), Karnataka**. The company designs and manufactures motorcycle helmets and riding safety equipment for domestic and international markets, with a strong emphasis on certified safety, quality, comfort, and manufacturing excellence. Today, Vega produces millions of helmets annually and exports to numerous countries worldwide, making it one of India's most recognized helmet brands. :contentReference[oaicite:0]{index=0}
+**Vega Auto Accessories Ltd.** is one of India's leading helmet manufacturers, established in **1982** in **Belagavi (Belgaum), Karnataka**. The company designs and manufactures motorcycle helmets and riding safety equipment for domestic and international markets, with a strong emphasis on certified safety, quality, comfort, and manufacturing excellence. Today, Vega produces millions of helmets annually and exports to numerous countries worldwide, making it one of India's most recognized helmet brands.
 
 **Official Website:**  
-:contentReference[oaicite:1]{index=1}
+https://vegaauto.com
 
 ---
 
