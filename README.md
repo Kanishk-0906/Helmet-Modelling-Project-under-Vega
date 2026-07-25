@@ -1,64 +1,85 @@
-# Helmet Surface Modeling - Vega Industrial Training
+# Siemens NX Surface Modelling Portfolio
 
-This repository documents my industrial training in **advanced surface modeling at Vega Helmets** using **Siemens NX**. The projects showcase a structured learning progression—from developing inner liner surfaces to creating Class A surfaces and finally integrating them into a complete sewn helmet model using industry-standard surfacing workflows.
+A collection of Class A surfacing projects developed in **Siemens NX** during my industrial training at **Vega Auto Accessories Ltd.**, along with personal practice models.
 
-<p align="center">
-  <img src="Helmet%2004%20-%20Complete%20Helmet%20Surface/01_trimetric.png" width="85%">
-</p>
-
-**Software:** Siemens NX
-
-**Focus Areas:** Surface Modeling • Class A Surfacing • Product Development • Surface Continuity • Industrial Design
+The repository documents my progression from basic surface creation to production-ready Class A surface development for motorcycle helmets and components.
 
 ---
 
-## Featured Project
+# Featured Projects
 
-**Helmet 04 – Complete Helmet Surface**
+| Helmet 04 | Helmet 05 |
+|-----------|-----------|
+| ![](Helmet%2004/images/trimetric.png) | ![](Helmet%2005/images/trimetric.png) |
 
-The final project of the training, demonstrating the complete helmet surfacing workflow by developing the inner liner and exterior Class A surfaces before sewing them into a single continuous body. The project emphasizes industrial surfacing practices, surface continuity, manufacturable geometry, and quality validation.
+| Helmet 06 | Helmet 07 |
+|-----------|-----------|
+| ![](Helmet%2006/images/outside_view.png) | ![](Helmet%2007/images/spoiler_assembly.png) |
 
 ---
 
-## Project Progression
+# Projects
 
 | Project | Description |
-|---------|-------------|
-| **Helmet 01 – Liner Surface** | Development of a basic inner liner surface while learning the fundamentals of Siemens NX surfacing workflows. |
-| **Helmet 02 – Liner Surface** | Advanced inner liner featuring improved freeform geometry, refined patch layout, and enhanced surface continuity. |
-| **Helmet 03 – Class A Surface** | Development of an exterior Class A helmet shell incorporating complex styling features and advanced freeform surfaces. |
-| **Helmet 04 – Complete Helmet Surface** | Complete helmet created by integrating the inner liner and Class A shell into a sewn body with validated surface quality. |
+|----------|-------------|
+| Helmet 01 | Introduction to surface modelling and basic surface creation. |
+| Helmet 02 | Intermediate Class A surface development with improved continuity. |
+| Helmet 03 | Complete motorcycle helmet outer shell developed using advanced surfacing workflows. |
+| Helmet 04 | Complete outer shell and liner surfaces with sewn geometry, surface validation, and exploded assembly. |
+| Helmet 05 | Complete production-style motorcycle helmet surface model with integrated features and Class A surfacing. |
+| Helmet 06 | Production helmet surface patch development for a manufacturable helmet component, including Class A repair and Zebra Analysis validation. |
+| Helmet 07 | Production rear spoiler developed and integrated with an existing motorcycle helmet using Class A surfacing techniques. |
 
 ---
 
-## Skills Demonstrated
+# Skills Demonstrated
 
-- Advanced freeform surface modeling
-- Class A surface development
-- Surface continuity (G0 / G1)
-- Through Curve and Through Curve Mesh workflows
-- Studio Surface creation
-- Surface trimming and patch management
-- Surface sewing and body creation
-- Surface quality validation using Zebra Analysis
-- Industrial product surfacing workflow in Siemens NX
+### Surface Modelling
+
+- Class A Surface Development
+- Surface Repair
+- Reverse Surface Reconstruction
+- Production Surface Modelling
+- Surface Continuity (G0 / G1 / G2)
+- Surface Validation
+- Complex Patch Layout
+- Manufacturable Surface Creation
+
+### Siemens NX Tools
+
+- Splines
+- Fill Surface
+- Through Curve Mesh
+- Studio Surface (N-Sided)
+- Project Curves
+- Trim Sheet
+- Extend Sheet
+- Sew
+- Delete Edge
+- Delete Body
+- Examine Geometry
+- Zebra Analysis
 
 ---
 
-## Repository Structure
+# About Vega Auto Accessories Ltd.
 
-```text
-Helmet_Surface_Modeling-Vega_Industrial_Training
-│
-├── Helmet 01 - Liner Surface
-├── Helmet 02 - Liner Surface
-├── Helmet 03 - Class A Surface
-├── Helmet 04 - Complete Helmet Surface
-└── README.md
-```
+**Vega Auto Accessories Ltd.** is one of India's leading helmet manufacturers, established in **1982** in **Belagavi (Belgaum), Karnataka**. The company designs and manufactures motorcycle helmets and riding safety equipment for domestic and international markets, with a strong emphasis on certified safety, quality, comfort, and manufacturing excellence. Today, Vega produces millions of helmets annually and exports to numerous countries worldwide, making it one of India's most recognized helmet brands. :contentReference[oaicite:0]{index=0}
+
+**Official Website:**  
+:contentReference[oaicite:1]{index=1}
 
 ---
 
-## About
+# About This Repository
 
-This repository showcases the progression of my industrial training at **Vega Helmets**, demonstrating the development of production-oriented helmet surfaces using **Siemens NX**. Each project builds upon the previous one, reflecting the transition from foundational surface creation to complete Class A product surfacing and surface integration workflows.
+Every project contains:
+
+- Project overview
+- Surface modelling workflow
+- Gallery
+- Surface validation
+- Siemens NX tools used
+- Skills demonstrated
+
+The portfolio will continue to grow as additional production and practice projects are completed.
