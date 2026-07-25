@@ -24,13 +24,13 @@ The spoiler was developed as an independent surface model, fitted to the helmet 
 
 | Spoiler Front View | Spoiler Top View |
 |-------------------|------------------|
-| ![](images/spoiler_front.png) | ![](images/spoiler_top.png) |
+| ![](spoiler_front.png) | ![](spoiler_top.png) |
 
 ### Integrated with Helmet
 
 | Front View | Side View |
 |----------------------------------|---------------------------------|
-| ![](images/helmet_front.png) | ![](images/helmet_side.png) |
+| ![](helmet_front.png) | ![](helmet_side.png) |
 
 ---
 
